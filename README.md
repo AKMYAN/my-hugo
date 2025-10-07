@@ -34,8 +34,8 @@ brew install hugo
 ### 克隆仓库
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/AKMYAN/my-hugo.git
+cd my-hugo
 git submodule update --init --recursive
 ```
 
@@ -93,5 +93,6 @@ MIT License
 
 ## 联系方式
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your-email@example.com
+- GitHub: [@AKMYAN](https://github.com/AKMYAN)
+- Website: [blog.926948.xyz](https://blog.926948.xyz)
+- Email: one@ztmy.net

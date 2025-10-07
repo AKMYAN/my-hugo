@@ -10,7 +10,7 @@ theme = 'PaperMod'
   
   # 主页设置
   homeInfoParams.Title = "欢迎来到我的博客"
-  homeInfoParams.Content = "这里分享一些有趣的内容和想法"
+  homeInfoParams.Content = "博客正在施工中，这只是一个实验页面"
   
   # 社交链接
   [[params.socialIcons]]

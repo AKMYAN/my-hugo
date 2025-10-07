@@ -1,4 +1,4 @@
-baseURL = 'https://my-hugo-3aq.pages.dev/'
+baseURL = 'https://blog.926948.xyz/'
 languageCode = 'zh-cn'
 title = '我的 Hugo 网站'
 theme = 'PaperMod'

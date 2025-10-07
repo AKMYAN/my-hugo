@@ -1,0 +1,42 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = '我的 Hugo 网站'
+theme = 'PaperMod'
+
+[params]
+  env = "production"
+  description = "这是一个使用 Hugo 和 PaperMod 主题构建的示例网站"
+  author = "您的名字"
+  
+  # 主页设置
+  homeInfoParams.Title = "欢迎来到我的博客"
+  homeInfoParams.Content = "这里分享一些有趣的内容和想法"
+  
+  # 社交链接
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/yourusername"
+  
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/yourusername"
+
+# 菜单配置
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 20
+  
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 30

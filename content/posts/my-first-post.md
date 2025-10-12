@@ -1,6 +1,6 @@
 +++
 date = '2025-10-07T21:20:15+08:00'
-draft = false
+draft = true
 title = '我的第一篇博客文章'
 tags = ['博客', 'Hugo', '开始']
 categories = ['生活']

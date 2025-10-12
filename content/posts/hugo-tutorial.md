@@ -1,6 +1,6 @@
 +++
 date = '2025-10-07T21:20:21+08:00'
-draft = false
+draft = true
 title = 'Hugo 入门教程：从零开始构建静态网站'
 tags = ['Hugo', '教程', '静态网站', 'Web开发']
 categories = ['技术']

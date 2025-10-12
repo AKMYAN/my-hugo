@@ -1,25 +1,25 @@
 baseURL = 'https://about.ztmy.net/'
 languageCode = 'zh-cn'
-title = '我的 Hugo 网站'
+title = 'About AKMYAN'
 theme = 'PaperMod'
 
 [params]
   env = "production"
   description = "这是一个使用 Hugo 和 PaperMod 主题构建的示例网站"
-  author = "您的名字"
+  author = "AKMYAN"
   
   # 主页设置
-  homeInfoParams.Title = "欢迎来到我的博客"
-  homeInfoParams.Content = "博客正在施工中，这只是一个实验页面"
+  homeInfoParams.Title = "AKMYAN的杂谈"
+  homeInfoParams.Content = "Connect the World"
   
   # 社交链接
   [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/yourusername"
+    name = "telegram"
+    url = "https://t.me/kazefujii"
   
   [[params.socialIcons]]
-    name = "twitter"
-    url = "https://twitter.com/yourusername"
+    name = "email"
+    url = "mailto:me@ztmy.net"
 
 # 菜单配置
 [menu]

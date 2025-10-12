@@ -94,5 +94,5 @@ MIT License
 ## 联系方式
 
 - GitHub: [@AKMYAN](https://github.com/AKMYAN)
-- Website: [blog.926948.xyz](https://blog.926948.xyz)
+- Website: [about.ztmy.net](https://about.ztmy.net)
 - Email: one@ztmy.net
